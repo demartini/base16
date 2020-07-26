@@ -126,7 +126,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Purpledream](https://github.com/archmalet/base16-purpledream-scheme) maintained by [archmalet](https://github.com/archmalet)
 * [Rebecca](https://github.com/vic/base16-rebecca) maintained by [vic](https://github.com/vic)
 * [Sandcastle](https://github.com/gessig/base16-sandcastle-scheme) maintained by [gessig](https://github.com/gessig)
-* [Shades of Purple](https://github.com/demartini/base16-shades-of-purple) maintained by [Demartini](https://github.com/demartini)
+* [Shades of Purple](https://github.com/ahmadawais/base16-shades-of-purple) maintained by [Demartini](https://github.com/demartini)
 * [Snazzy](https://github.com/h404bi/base16-snazzy-scheme) maintained by [h404bi](https://github.com/h404bi)
 * [Solarflare](https://github.com/mnussbaum/base16-solarflare-scheme) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Solarized](https://github.com/aramisgithub/base16-solarized-scheme) maintained by [aramisgithub](https://github.com/aramisgithub)
