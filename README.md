@@ -29,6 +29,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [Godot](https://github.com/Calinou/base16-godot) maintained by [Calinou](https://github.com/Calinou)
 * [GTK+ FlatColor](https://github.com/Misterio77/base16-gtk-flatcolor) maintained by [Misterio77](https://github.com/Misterio77/)
 * [GTK+2](https://github.com/dawikur/base16-gtk2) maintained by [dawikur](https://github.com/dawikur)
+* [HexChat](https://github.com/Diablo-D3/base16-hexchat) maintained by [Diablo-D3](https://github.com/Diablo-D3)
 * [Highlight](https://github.com/bezhermoso/base16-highlight) maintained by [bezhermoso](https://github.com/bezhermoso)
 * [HTML Previews](https://github.com/chriskempson/base16-html-preview) maintained by [chriskempson](https://github.com/chriskempson)
 * [i3](https://github.com/khamer/base16-i3) maintained by [khamer](https://github.com/khamer)
@@ -37,7 +38,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [iTerm2](https://github.com/martinlindhe/base16-iterm2) maintained by [martinlindhe](https://github.com/martinlindhe)
 * [Jetbrains](https://github.com/adilosa/base16-jetbrains) maintained by [adilosa](https://github.com/adilosa)
 * [JOE](https://github.com/jjjordan/base16-joe) maintained by [jjjordan](https://github.com/jjjordan)
-* [k3rmit](https://github.com/orhun/base16-k3rmit) maintained by [orhun](https://github.com/orhun)
+* [kermit](https://github.com/orhun/base16-kermit) maintained by [orhun](https://github.com/orhun)
 * [Kakoune](https://github.com/leira/base16-kakoune) maintained by [leira](https://github.com/leira)
 * [kitty](https://github.com/kdrag0n/base16-kitty) maintained by [kdrag0n](https://github.com/kdrag0n)
 * [Konsole](https://github.com/cskeeters/base16-konsole) maintained by [cskeeters](https://github.com/cskeeters)
@@ -71,6 +72,7 @@ To add your own template, submit a pull request to https://github.com/chriskemps
 * [Waybar](https://github.com/mnussbaum/base16-waybar) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Windows Command Prompt](https://github.com/iamthad/base16-windows-command-prompt) maintained by [iamthad](https://github.com/iamthad)
 * [Windows Terminal](https://github.com/wuqs-net/base16-windows-terminal) maintained by [wuqs-net](https://github.com/wuqs-net)
+* [Wofi](https://hg.sr.ht/~scoopta/wofi) maintained by [knezi](https://sr.ht/~knezi)
 * [Xcode](https://github.com/kreeger/base16-xcode) maintained by [kreeger](https://github.com/kreeger)
 * [XFCE4 Terminal](https://github.com/afg984/base16-xfce4-terminal) maintained by [afg984](https://github.com/afg984)
 * [Xresources](https://github.com/binaryplease/base16-xresources) maintained by [binaryplease](https://github.com/binaryplease)
@@ -109,6 +111,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Humanoid](https://github.com/humanoid-colors/base16-humanoid-schemes) maintained by [tasmo](https://github.com/tasmo)
 * [iA](https://github.com/aramisgithub/base16-ia-scheme) maintained by [aramisgithub](https://github.com/aramisgithub)
 * [Icy](https://github.com/icyphox/base16-icy-scheme) maintained by [icyphox](https://github.com/icyphox)
+* [Kimber](https://github.com/akhsiM/base16-kimber-scheme) maintained by [Mishka](https://github.com/akhsiM)
 * [Materia](https://github.com/Defman21/base16-materia) maintained by [Defman21](https://github.com/Defman21)
 * [Material Theme](https://github.com/ntpeters/base16-materialtheme-scheme) maintained by [ntpeters](https://github.com/ntpeters)
 * [Material Vivid](https://github.com/joshyrobot/base16-material-vivid-scheme) maintained by [joshyrobot](https://github.com/joshyrobot)
@@ -125,8 +128,10 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 * [Porple](https://github.com/AuditeMarlow/base16-porple-scheme) maintained by [AuditeMarlow](https://github.com/AuditeMarlow)
 * [Purpledream](https://github.com/archmalet/base16-purpledream-scheme) maintained by [archmalet](https://github.com/archmalet)
 * [Rebecca](https://github.com/vic/base16-rebecca) maintained by [vic](https://github.com/vic)
+* [Sagelight](https://github.com/cveldy/base16-sagelight-scheme) maintained by [cveldy](https://github.com/cveldy)
 * [Sandcastle](https://github.com/gessig/base16-sandcastle-scheme) maintained by [gessig](https://github.com/gessig)
 * [Shades of Purple](https://github.com/ahmadawais/base16-shades-of-purple) maintained by [Ahmad Awais](https://github.com/ahmadawais) and [Demartini](https://github.com/demartini)
+* [Silk](https://github.com/Misterio77/base16-silk-scheme) maintained by [Misterio77](https://github.com/misterio77)
 * [Snazzy](https://github.com/h404bi/base16-snazzy-scheme) maintained by [h404bi](https://github.com/h404bi)
 * [Solarflare](https://github.com/mnussbaum/base16-solarflare-scheme) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Solarized](https://github.com/aramisgithub/base16-solarized-scheme) maintained by [aramisgithub](https://github.com/aramisgithub)
@@ -151,6 +156,7 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 - Make baseXX-hex-bgr variables available to templates
 - Warn when a template file has been overwritten
 
+* [Base 16 Builder Ansible](https://github.com/mnussbaum/base16-builder-ansible) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Base 16 Builder Go](https://github.com/belak/base16-builder-go) maintained by [belak](https://github.com/belak)
 * [Base 16 Builder PHP](https://github.com/chriskempson/base16-builder-php) maintained by [chriskempson](https://github.com/chriskempson)
 * [Base 16 Builder Python](https://github.com/InspectorMustache/base16-builder-python) maintained by [InspectorMustache](https://github.com/InspectorMustache)
@@ -160,7 +166,6 @@ To add your own scheme, submit a pull request to https://github.com/chriskempson
 
 - Add decimal color variables
 
-* [Base 16 Builder Ansible](https://github.com/mnussbaum/base16-builder-ansible) maintained by [mnussbaum](https://github.com/mnussbaum)
 * [Base 16 Builder Clojure](https://github.com/nhurden/base16-builder-clojure) maintained by [nhurden](https://github.com/nhurden)
 * [Base 16 Builder Elixir](https://github.com/obahareth/base16-builder-elixir) maintained by [obahareth](https://github.com/obahareth)
 * [Base 16 Builder Ruby](https://github.com/obahareth/base16-builder-ruby) maintained by [obahareth](https://github.com/obahareth)
@@ -191,10 +196,12 @@ The following is a list of useful resources for anyone creating a Base16 scheme 
 
 If you've written a tool for base16 feel free to add it to the list below:
 
+
 * [auto-base16-theme](https://github.com/makuto/auto-base16-theme) - A command line tool to create a base16 theme from an input image's color palette.
 * [base16-manager](https://github.com/AuditeMarlow/base16-manager) - A command line tool to install base16 templates and set themes globally.
 * [base16-shell-preview](https://github.com/nvllsvm/base16-shell-preview) - A command line tool to preview and set base16-shell themes.
 * [base16-universal-manager](https://github.com/binaryplease/base16-universal-manager) - A command line tool to automatically get, build and set base16 themes globally for *all* supported applications. Themes and templates are pulled form the official repositories or from a local cache.
+* [flavours](https://github.com/misterio77/flavours) - A command line tool to manage and globally apply base16 templates by specifying a scheme name.
 * [Themix/Oomox](https://github.com/themix-project/oomox/) - Graphical application for generating different color variations of a Arc, Materia and Oomox themes (GTK2, GTK3 and others), Archdroid, Gnome-Colors and Numix icons, and terminal palette. Base16 plugin allows to open Base16 YAML files a export both Base16 and its own themes using Base16 Mustache templates.
 * [base16-spectrum-generator](https://github.com/alexmirrington/base16-spectrum-generator) - A Python script for generating `.png` files showcasing the colours in a base16 theme.
 
